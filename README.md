@@ -1,3 +1,4 @@
+![logo](https://github.com/nit1914/nit1914/blob/main/Nitesh_banner.png)
 <h1 align="center">Hi 👋, I'm Nitesh Verma</h1>
 <h3 align="center">A passionate Data Scientist Engineer from India</h3>
 
