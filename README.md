@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nit1914&label=Profile%20views&color=0e75b6&style=flat" alt="nit1914" /> </p>
 
-- 🔭 I’m currently working on **ChatGPT(LLM) Project**
+- 🔭 I’m currently working on: **ChatGPT(LLM) Project**
 
-- 🌱 I’m currently learning **B.Tech Honours(Data Science)**
+- 🌱 I’m currently learning: **B.Tech Honours(Data Science)**
 
-- 👯 I’m looking to collaborate on **Tech Support**
+- 👯 I’m looking to collaborate on: **Tech Support**
 
-- 🤝 I’m looking for help with **ChatGPT(LLM)**
+- 🤝 I’m looking for help with: **ChatGPT(LLM)**
 
-- 📫 How to reach me **nitesh.300012824041@csvtu.ac.in**
+- 📫 How to reach me: **nitesh.300012824041@csvtu.ac.in**
 
-- ⚡ Fun fact **I love data… because feelings don’t come with dashboards.**
+- ⚡ Fun fact: **I love data… because feelings don’t come with dashboards.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
