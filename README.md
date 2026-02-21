@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitesh Verma</h1>
 <h3 align="center">A passionate Data Scientist Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/9ca40afe-cfe1-43e3-9db6-1a0b4b52394d" />
-f>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/9ca40afe-cfe1-43e3-9db6-1a0b4b52394d" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nit1914&label=Profile%20views&color=0e75b6&style=flat" alt="nit1914" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nit1914" alt="nit1914" /></a> </p>
 
 - 🔭 I’m currently working on **ChatGPT(LLM) Project**
 
