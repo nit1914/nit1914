@@ -18,6 +18,13 @@
 
 - ⚡ Fun fact: **I love data… because feelings don’t come with dashboards.**
 
+
+- ## 🌐 Socials:
+- 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ver_ni14)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-verma-4745b4327L)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitesh.300012824041@csvtu.ac.in)
+
+<!-- Snake Game Repo View -->
+
 - <!-- Snake Game Repo View -->
 
 <div align="center">
